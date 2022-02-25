@@ -45,9 +45,11 @@ def insertionSort(input_array):
 
 | Case      | Time Complexity   |
 |-          | -                 |
-| Best      | $O(n)$    |
-| Average   | $O(n^2)$  |
-| Worst     | $O(n^2)$  |
+| Best      | O(n)    |
+| Average   | O(n^2)  |
+| Worst     | O(n^2)  |
+
+_Time complexity reference: [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)_
 
 __Example__:
 Sorted array is [2, 6, 16, 18, 22, 27]
